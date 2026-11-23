@@ -4,7 +4,7 @@ Trabalho da disciplina **Estruturas de Dados II** (Unipê).
 
 - **Professor:** Edkallenn Silva de Lima
 - **Aluno:** Pedro Henrique Leal Vieira (RGM 43620779)
-- **Vídeo de apresentação:** (link em breve)
+- **Vídeo de apresentação:** https://youtu.be/Utx3ypUxQ1w
 
 ## O que o programa faz
 
